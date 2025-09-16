@@ -15,9 +15,12 @@ MalwareBaazar
 PCAP samples from Malware-Traffic-Analysis.net
 
 **Objectives**
-•	Analyze raw packet capture data (.pcap)
-•	Detect and isolate suspicious/malicious activity
-•	Apply filters to identify malicious payload
+
+Analyze raw packet capture data (.pcap)
+
+Detect and isolate suspicious/malicious activity
+
+Apply filters to identify malicious payload
 
 **Links**
 
